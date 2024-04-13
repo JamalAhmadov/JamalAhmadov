@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **some tasks**
  
- 🌱 I’m currently learning **JavaScript and React**
+ 🌱 I’m currently learning **TypeScript and React**
 
 ⚡ Fun fact **The first rule of being a developer is copying.**
 
